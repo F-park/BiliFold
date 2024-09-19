@@ -1,7 +1,7 @@
 // ==UserScript==
 // @name         BiliFold - 收起动态评论
-// @namespace    https://github.com/F-park
-// @version      0.1.0
+// @namespace    https://github.com/F-park/BiliFold
+// @version      0.1.1
 // @description  点击两侧空白收起B站动态评论（包括 up 空间动态）
 // @author       F-park
 // @license      MIT
